@@ -1,0 +1,238 @@
+{
+  "version": "data-v1",
+  "url": "https://github.com/leoi1999/ETA/releases/download/data-v1/eta-data-v1.zip",
+  "archive_size": 112147568,
+  "archive_sha256": "f5c699ee6814ebdd8e3a63b1ebb68a37e99b30ea707961c57b3d0dbd054cc0c5",
+  "files": [
+    {
+      "path": "data/FB15K_DB15K/attr",
+      "size": 2884741,
+      "sha256": "db127a37225c9a35334d7b181d2687f4ee11ce257ad3f4b1a2dcef488a16cd44"
+    },
+    {
+      "path": "data/FB15K_DB15K/ent_ids_1",
+      "size": 225009,
+      "sha256": "dbbce90676ff5d2478928dc420ad09c888ddcb21996c548a3886b6aa81b89ddb"
+    },
+    {
+      "path": "data/FB15K_DB15K/ent_ids_2",
+      "size": 685595,
+      "sha256": "89fa954130d94ae067d8d8db287c926791f5c873d032884ae7003230c6760b1b"
+    },
+    {
+      "path": "data/FB15K_DB15K/ill_ent_ids",
+      "size": 144445,
+      "sha256": "c78e7cfb052588d951dd7f1415825535013a4b5e2332ec1bb532dbd1c7c7e21a"
+    },
+    {
+      "path": "data/FB15K_DB15K/image/image.metadata.json",
+      "size": 976,
+      "sha256": "c3d8c4b8905a65b723167160c41f99e91fd5a87cd094c2bfaaf08587cb96447d"
+    },
+    {
+      "path": "data/FB15K_DB15K/image/image.pkl",
+      "size": 61247432,
+      "sha256": "2a04742bf2a9205a8dfeabf30c677314e6fdcf1a5ac724498a82e5135f75ced0"
+    },
+    {
+      "path": "data/FB15K_DB15K/image_manifest_template.tsv",
+      "size": 786432,
+      "sha256": "187360d29b4fba0a84d81bb5442d83bd2ca3384238eb61fd14d8ac0f274d83ea"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.2/dev_ent_ids",
+      "size": 115603,
+      "sha256": "9c51a4ee46dd28b5088efb0423bb0e64974bc36d455a069f5f0a0f17033c618c"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.2/ref_ent_ids",
+      "size": 144445,
+      "sha256": "c78e7cfb052588d951dd7f1415825535013a4b5e2332ec1bb532dbd1c7c7e21a"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.2/sup_ent_ids",
+      "size": 28842,
+      "sha256": "ad15635932719ba334b4f12fabf1ee8ceacfd44d24decd4552bca00721aae1e2"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.5/dev_ent_ids",
+      "size": 72243,
+      "sha256": "f57ddb6db613bfd33212aafff4336407283fe3e7321a178aef03f110bae60fde"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.5/ref_ent_ids",
+      "size": 144445,
+      "sha256": "c78e7cfb052588d951dd7f1415825535013a4b5e2332ec1bb532dbd1c7c7e21a"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.5/sup_ent_ids",
+      "size": 72202,
+      "sha256": "f6a990b32f3b25a3d6b37069695a3af67d178d64a8a1049c3e0e0959714006c8"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.8/dev_ent_ids",
+      "size": 28864,
+      "sha256": "4d15e59c5acd0aababa67c82964c64388c914ff608110ffbce1ba72492a1464f"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.8/ref_ent_ids",
+      "size": 144445,
+      "sha256": "c78e7cfb052588d951dd7f1415825535013a4b5e2332ec1bb532dbd1c7c7e21a"
+    },
+    {
+      "path": "data/FB15K_DB15K/seed0.8/sup_ent_ids",
+      "size": 115581,
+      "sha256": "86e8ff05cc83506b98220b542e97a52427ba0623e4ac5a65cce23233717cfe72"
+    },
+    {
+      "path": "data/FB15K_DB15K/training_attrs_1",
+      "size": 1846490,
+      "sha256": "0f97b36f5db872b8882f335f36a27ad59717310d575b8c56f5e4ae72d6c12400"
+    },
+    {
+      "path": "data/FB15K_DB15K/training_attrs_2",
+      "size": 2554781,
+      "sha256": "a388df7b88751f74219702bb38973acf62a668588a5f49e489c0bf88db76beb0"
+    },
+    {
+      "path": "data/FB15K_DB15K/triples_1",
+      "size": 7663041,
+      "sha256": "7b79a26caba75010b24a16c980792b68d018c4ffa9c4938bcce1eb344ba44237"
+    },
+    {
+      "path": "data/FB15K_DB15K/triples_2",
+      "size": 1683476,
+      "sha256": "4cdff9c0d8ffa7dc68f1f5995093f61f995d1dc8ecb5c6ce671976aaf6bf9347"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/attr",
+      "size": 2182917,
+      "sha256": "9939d970a5bb1e725e4de2f7cfdc0f1e9dcca4e68250eebe8bdf49ae5ee6ea55"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/ent_ids_1",
+      "size": 225009,
+      "sha256": "dbbce90676ff5d2478928dc420ad09c888ddcb21996c548a3886b6aa81b89ddb"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/ent_ids_2",
+      "size": 929913,
+      "sha256": "941ce2b8f37d28ea0ff58b25d32711cf00e535712109006c801e4c0665d045c4"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/ill_ent_ids",
+      "size": 125876,
+      "sha256": "408c342ea914df1a908c58dc167e81e06d4dafbdfbe5894f3dac7e89731b9679"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/image/image.metadata.json",
+      "size": 982,
+      "sha256": "b23550953668b1f7303bea9d9a4fd035b66a54b672bffc06d5d2421bd23dbdf4"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/image/image.pkl",
+      "size": 57997676,
+      "sha256": "5f6365af48730971eb038357ce3278e1ed1364590da62501cbffe3273c5067b9"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/image_manifest_template.tsv",
+      "size": 1569760,
+      "sha256": "5420fe2840e701cad9baf2485df4bb1ee97082a5064f13db0f66289549da2517"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/preparation_metadata.json",
+      "size": 752,
+      "sha256": "2b53f796b73ba0dffc23173f6aa69973e7f6f427bc240eb2e0ca2c199ad6ee59"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.2/dev_ent_ids",
+      "size": 100718,
+      "sha256": "38f090178e3b4d411ad64902620b081083a2d637d0238cccffe4e1fe0a179c99"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.2/ref_ent_ids",
+      "size": 125876,
+      "sha256": "408c342ea914df1a908c58dc167e81e06d4dafbdfbe5894f3dac7e89731b9679"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.2/sup_ent_ids",
+      "size": 25158,
+      "sha256": "31ea29626d1d8f61f71ad3e4b88f5923b0dccea636cc1d545ab0c739efbb8f06"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.5/dev_ent_ids",
+      "size": 62944,
+      "sha256": "6a3a7023c408cbe3162ec7bf6272671eeb2c66fb3662f4659bd6df45f45e6e3c"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.5/ref_ent_ids",
+      "size": 125876,
+      "sha256": "408c342ea914df1a908c58dc167e81e06d4dafbdfbe5894f3dac7e89731b9679"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.5/sup_ent_ids",
+      "size": 62932,
+      "sha256": "dd481451458d574a50747b7b2ecfe1df42ded7b62bf89f04036a79806eb4035e"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.8/dev_ent_ids",
+      "size": 25161,
+      "sha256": "9ffea98c263a2c04a6f5ccc3023653446dfa858ac699c94d75526e4ed3fa55f2"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.8/ref_ent_ids",
+      "size": 125876,
+      "sha256": "408c342ea914df1a908c58dc167e81e06d4dafbdfbe5894f3dac7e89731b9679"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/seed0.8/sup_ent_ids",
+      "size": 100715,
+      "sha256": "311e9a6be0aa3c2bc7001424d0fb9842322f66ba2252f2a00f6bc06dd2ff0871"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/training_attrs_1",
+      "size": 1846490,
+      "sha256": "93429171407372bf5c741e15c7da9048bb61f50a06c2c446c9e6600cbafd08f6"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/training_attrs_2",
+      "size": 2027434,
+      "sha256": "874a4af3a53f04f1481b55e9a2eef302e688eb3f4e282454a72512cbb6dc7427"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/triples_1",
+      "size": 7663041,
+      "sha256": "7b79a26caba75010b24a16c980792b68d018c4ffa9c4938bcce1eb344ba44237"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/triples_2",
+      "size": 2089062,
+      "sha256": "bc2f7612bb0abc88a521a3fa6fb1dcfd936dcb927ad6bc69997ee8db2b472223"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/YAGO15K_EntityTriples.txt",
+      "size": 19399315,
+      "sha256": "a3cd0d87ceedd3f00cd8941b3c338e896c7529a78c7ce22afff0eaefb3c53211"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/YAGO15K_ImageIndex.txt",
+      "size": 752422,
+      "sha256": "af68898baf5ca12c0de922d5cf1d683a180ff30a58da8c64737a750030f0eb81"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/YAGO15K_NumericalTriples.txt",
+      "size": 7886182,
+      "sha256": "5fbe5c6ab0ac9dd2ec1c393ac35abc7a7043ba851747b6f3033940751610a1e8"
+    },
+    {
+      "path": "data/FB15K_YAGO15K/YAGO15K_SameAsLink.txt",
+      "size": 839906,
+      "sha256": "a32768251e35fc199aebd1087bd8fac25cc4fe79a8167811f58ae86b2d35bb8f"
+    },
+    {
+      "path": "data/MMKB-LICENSE.txt",
+      "size": 1473,
+      "sha256": "aad5115ab20d36e32ea2837e4a0726278daa3c92b2ca1582555eb4c61a7f7e3a"
+    }
+  ]
+}

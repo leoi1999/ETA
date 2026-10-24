@@ -1,0 +1,8 @@
+# Direct runtime dependencies. Use requirements-cu121.txt for the reference
+# CUDA 12.1 wheel sources.
+numpy==1.24.4
+torch==2.4.1
+torch-scatter==2.1.2
+transformers==4.46.3
+Pillow==10.4.0
+tqdm==4.66.5

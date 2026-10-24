@@ -1,0 +1,27 @@
+name: Source checks
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  source-checks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.8'
+      - name: Check Python syntax
+        run: python -m compileall -q src encoder tools
+      - name: Check Bash syntax
+        run: bash -n scripts/run_main.sh scripts/run_pseudo.sh
+      - name: Preview all experiment configurations
+        run: |
+          for dataset in FB_DB FB_YAGO; do
+            for ratio in 0.2 0.5 0.8; do
+              bash scripts/run_main.sh "$dataset" "$ratio" --dry-run
+              bash scripts/run_pseudo.sh "$dataset" "$ratio" --dry-run
+            done
+          done

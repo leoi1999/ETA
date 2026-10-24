@@ -1,0 +1,29 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+
+# Generated experiments and downloaded resources
+logs/
+outputs/
+checkpoints/
+pretrained_models/
+.cache/
+*.pt
+*.pth
+*.pkl
+*.safetensors
+*.zip
+data/*
+!data/README.md
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
